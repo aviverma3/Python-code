@@ -29,7 +29,7 @@ class chemistry(Student):
 ch1 = chemistry("ravi", 99, 42324)
 ch1.dispay()
 ch1.subject()
-s3 = Student("naman", 97, 324325)
+s3 = Student("namaneshawar", 97, 324325)
 s3.dispay()
 print(ch1.name)
 
