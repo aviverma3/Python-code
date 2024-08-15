@@ -17,7 +17,7 @@ print(s1.name, s1.rollnum)
 
 s1.hello()
 
-s2 = Student("pallavi", 91, 83029)
+s2 = Student("pallavi", 91, 8302932)
 s2.dispay()
 
 class chemistry(Student):
